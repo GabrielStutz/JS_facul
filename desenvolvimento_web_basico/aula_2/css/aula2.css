@@ -1,0 +1,25 @@
+a:link {
+    color: darkblue;
+}
+
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(8, 150, 245);
+}
+
+.outer {
+    border: solid black;
+}
+
+.box {
+    background-color: rebeccapurple;
+    color: white;
+    width: 20%;
+    margin: 3%;
+    padding: 1%;
+    transform: rotate(300deg);
+}
